@@ -1,4 +1,5 @@
-# just-text: Greek Laws in plain text format
+# just-text
+# Greek Laws in plain text format
 
 This repository provides raw data of Greek Laws in plain text format.
 
