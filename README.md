@@ -3,7 +3,8 @@
 
 <br>
 
-This repository provides raw data of Greek Laws in plain text format, as they are publiced officially in pdf format. No codification.
+This repository provides raw data of Greek Laws in plain text format, 
+as they are published officially in pdf format. No codification whatsoever.
 
 <br>
 
