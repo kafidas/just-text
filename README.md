@@ -3,7 +3,7 @@
 
 <br>
 
-This repository provides raw data of Greek Laws in plain text format, as they are published officially in the Official Government Gazette Issues (FEK) in pdf format. <br>
+This repository provides raw data of Greek Laws in plain text format, as they are published officially in the Official Government Gazette Issues A' (FEK A') in pdf format. <br>
 No codification whatsoever.
 
 <br>
