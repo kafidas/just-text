@@ -1,4 +1,4 @@
-Laws 5080 through 5111 (25.05.2024)
+Laws 5080 through 5113 (21.06.2024)
 
 n5080.txt
 n5081.txt
@@ -32,3 +32,5 @@ n5108.txt
 n5109.txt
 n5110.txt
 n5111.txt
+n5112.txt
+n5113.txt
