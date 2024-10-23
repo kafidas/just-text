@@ -1,4 +1,5 @@
-Laws 5080 through 5113 (21.06.2024) - 1st semester
+# Laws 5080 through 5113 (21.06.2024) - 1st semester
+# 2nd semester in separate folder
 
 n5080.txt
 n5081.txt
