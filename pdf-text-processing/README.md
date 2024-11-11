@@ -13,17 +13,16 @@ It is tested only for Laws published in Issues A (thus far!)
 #### Extracts Images (optional):
 - Detects and extracts images embedded in the PDF pages.
 - Saves the extracted images to a subfolder as JPEG files.
-#### Logging:
-- Logs the processing steps to a file (pdf_processing.log).
-- Error Handling: The script includes error handling for image extraction, which logs issues related to image processing.
-#### Pause Between Files: 
-The script pauses briefly between processing each file (time.sleep(0.1)), which could be helpful for managing memory or file system resources.
+#### Outputs:
+- Main body of law
+- Text that is trimmed
+- Last page for reference checks
 
 <br>
 
 ### Breakdown of Functions:
 #### extract_text_from_pdf(pdf_path):
-Extracts and processes text from the PDF, removing header/footer, dealing with hyphenation, and handling last page text separately.
+Extracts and processes text from the PDF, removing header, dealing with hyphenation, and handling last page text separately.
 #### extract_images_from_pdf(pdf_path, output_folder):
 Extracts images from each page and saves them as JPEGs.
 #### process_pdfs_in_folder(input_folder, output_folder):
