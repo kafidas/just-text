@@ -7,7 +7,7 @@ This repository provides raw data of Greek Laws in plain text format, as it is s
 > No codification whatsoever.<br>
 > Only direct readable text is stored. <br>
 > No OCR, no images or table structure is provided. <br>
-> From Jul-24, text is extracted by using <a href="https://github.com/kafidas/just-text/tree/main/pdf-text-processing">fekpdf2txt python </a>.
+> From Jul-24, text is extracted by using <a href="https://github.com/kafidas/just-text/tree/main/pdf-text-processing">fekpdf2txt python script</a>.
 
 <b><i>Source of data: National Printing House (Εθνικό Τυπογραφείο)</i></b> <a href="https://www.et.gr">www.et.gr</a> <br><br>
 
