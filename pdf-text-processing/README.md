@@ -1,5 +1,5 @@
-This Python script is designed to process multiple PDF files from et.gr of Greek Laws (FEK A) stored in a folder, extracting text (and optionally images), and saving the results in specified output folders. <br>
-It is tested only for Laws published in Issues A (thus far!)
+This Python script is designed to process multiple PDF files from et.gr of Greek Laws (FEK A) stored in a folder, extracting text (and optionally images), and saving the results in specified output subfolders. <br>
+It is tested only for Laws published in Issue A (thus far!)
 <br>
 <hr>
 <br>
