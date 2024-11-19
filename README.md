@@ -15,7 +15,9 @@ This repository provides raw data of Greek Laws in plain text format, as it is s
 Kafidas, Lampros, 2024, "Greek Laws in text format", https://doi.org/10.7910/DVN/F1CNFC, Harvard Dataverse, V1, https://github.com/kafidas/just-text/
 
 <br>
+
 ##### Contact me @ <a href="https://www.linkedin.com/in/kafidas/"> https://www.linkedin.com/in/kafidas/</a>
+
 <br>
 
 ###### Lampros Kafidas, PhD Candidate, University of Thessaly
