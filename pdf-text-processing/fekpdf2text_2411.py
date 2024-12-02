@@ -111,7 +111,7 @@ def extract_text_from_pdf(pdf_path):
         
     # Handle last page separately
     last_page_text = ""
-    if doc.page_count > 0:
+    if doc.page_count > 1:
         last_page = doc.load_page(doc.page_count - 1)
         last_page_text = last_page.get_text("text")
         final_text = ""
