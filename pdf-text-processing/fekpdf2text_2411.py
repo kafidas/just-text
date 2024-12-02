@@ -1,3 +1,12 @@
+# ------------------------------------- #
+#          Developed/Edited by:         #
+#           Lampros KAFIDAS             #
+# https://www.linkedin.com/in/kafidas/  #
+#      https://github.com/kafidas       #
+# ------------------------------------- #
+
+###### Python code for extracting readable text from pdf files of et.gr (FEK issues) 
+###### Tested for Issues A' that contain formal laws (edition 24.11)
 import os
 import fitz  # PyMuPDF
 import re
