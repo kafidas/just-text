@@ -4,9 +4,7 @@ It extracts readable text from multiple PDF files of **et.gr** stored in a folde
 The script processes the PDFs by cleaning up headers, last page footers, and other metadata, and it also handles special cases like hyphenation at the end of lines and omitted final lines. <br>
 The output includes the full extracted text, clipped text (headers removed), and the content from the last page (for reference).
 
-<br>
 <hr>
-<br>
 
 ### Key Features:
 #### Extracts Text from PDF:
@@ -53,5 +51,7 @@ If you have a PDF named example.pdf in the pdf_files folder, the output will be:
 -- Pillow (PIL): For saving extracted images in JPEG format.
 -- re: For regular expression-based text processing.
 -- os: For handling file paths.
+
+<hr>
 
 Developed/Edited by: Lampros KAFIDAS
