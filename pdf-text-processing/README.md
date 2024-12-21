@@ -1,8 +1,6 @@
 # PDF Text Extraction for et.gr (Edition 2024)
-This Python script is designed to process multiple PDF files from et.gr, specifically targeting Issues A' that contain formal laws. <br>
-of Greek Laws (FEK A) stored in a folder, extracting text (and optionally images), and saving the results in specified output subfolders. <br>
-
-This Python script extracts readable text from PDF files of **et.gr** (edition 2024), specifically targeting Issues A' that contain formal laws. <br>
+This Python script is designed to process PDF files from **et.gr**, specifically targeting Issues A' that contain formal laws. <br>
+It extracts readable text from multiple PDF files of **et.gr** stored in a folder, and saving the results in specified output subfolder. <br>
 The script processes the PDFs by cleaning up headers, last page footers, and other metadata, and it also handles special cases like hyphenation at the end of lines and omitted final lines. <br>
 The output includes the full extracted text, clipped text (headers removed), and the content from the last page (for reference).
 
@@ -40,7 +38,7 @@ Iterates over all PDF files in the input_folder, extracting text and images (if 
 -- <filename>.txt (full extracted text)
 -- <filename>_trims.txt (clipped text with headers and footers removed)
 -- <filename>_last_page.txt (text from the last page)
-#Example
+# Example
 If you have a PDF named example.pdf in the pdf_files folder, the output will be:<br>
 - example.txt (full text)
 - example_trims.txt (clipped text)
