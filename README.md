@@ -12,7 +12,7 @@ This repository provides raw data of Greek Laws in plain text format, as it is s
 <b><i>Source of data: National Printing House (Εθνικό Τυπογραφείο)</i></b> <a href="https://www.et.gr">www.et.gr</a> <br><br>
 
 ### Citation
-Kafidas, Lampros, 2024, "Greek Laws in text format", https://doi.org/10.7910/DVN/F1CNFC, Harvard Dataverse, V1, https://github.com/kafidas/just-text/
+Kafidas, Lampros, 2024, "Greek Laws in text format", https://doi.org/10.7910/DVN/F1CNFC, Harvard Dataverse, V2, https://github.com/kafidas/just-text/
 
 <br>
 
