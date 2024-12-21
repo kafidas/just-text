@@ -1,5 +1,5 @@
 # Laws 5080 through 5113 (21.06.2024) - 1st semester
-# 2nd semester in separate folder
+# All of 2nd semester laws in separate folder '2024b'
 
 n5080.txt
 n5081.txt
@@ -35,3 +35,25 @@ n5110.txt
 n5111.txt
 n5112.txt
 n5113.txt
+--------------------------------
+n5114.txt
+n5115.txt
+n5116.txt
+n5117.txt
+n5118.txt
+n5119.txt
+n5120.txt
+n5121.txt
+n5122.txt
+n5123.txt
+n5124.txt
+n5125.txt
+n5126.txt
+n5127.txt
+n5128.txt
+n5129.txt
+n5130.txt
+n5131.txt
+n5132.txt
+n5133.txt
+n5134.txt
