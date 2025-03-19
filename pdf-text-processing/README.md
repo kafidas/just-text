@@ -11,7 +11,7 @@ It extracts readable text from multiple PDF files stored in a folder, and saving
 - Handles last-page-specific conditions to ensure relevant text is captured.
 - Handles non-standard page sizes.
 #### Outputs:
-- Main body of law - Full extracted text (`.txt`)
+- Main body of law - Extracted text (`.txt`)
 - Text that is trimmed - Clipped text (`_trims.txt`)
 - Last page for reference checks (`_last_page.txt`)
 
@@ -30,12 +30,12 @@ Iterates over all PDF files in the input_folder, extracting text and images (if 
 - Place your PDF files in the pdf_files folder.
 - Running the script will generate output in the pdf_files/extracted_text_files folder.
 - For each PDF, the script will generate:
--- <filename>.txt (full extracted text)
+-- <filename>.txt (extracted text)
 -- <filename>_trims.txt (clipped text with headers and footers removed)
 -- <filename>_last_page.txt (text from the last page)
 ### Example
 If you have a PDF named example.pdf in the pdf_files folder, the output will be:<br>
-- example.txt (full text)
+- example.txt (extracted text)
 - example_trims.txt (clipped text)
 - example_last_page.txt (text from the last page)
 
@@ -51,4 +51,4 @@ If you have a PDF named example.pdf in the pdf_files folder, the output will be:
 
 <hr>
 
-Developed/Edited by: Lampros KAFIDAS
+Developed/Edited by: Lampros KAFIDAS, 2024
