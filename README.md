@@ -1,6 +1,6 @@
 # just-text
 ## Greek Laws in plain text format
-
+[![DOI](https://zenodo.org/badge/802643171.svg)](https://doi.org/10.5281/zenodo.20261912)
 <br>
 
 This repository provides raw data of Greek Laws in plain text format, as it is stored and published in the Official Government Gazette (Issues/FEK A') in pdf format. <br>
