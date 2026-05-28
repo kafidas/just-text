@@ -18,12 +18,12 @@ pdf_file = sys.argv[1]
 doc = pymupdf.open(pdf_file)
 
 # Crop pages for content extraction
-header_crop = 80
-footer_crop = 32
-first_page_top = 200     
-first_page_bottom = 32
-last_page_top = 80       
-last_page_bottom = 64    
+header_crop = 74
+footer_crop = 9
+first_page_top = 150
+first_page_bottom = 9
+last_page_top = 74    
+last_page_bottom = 63
 
 for page_num, page in enumerate(doc):
     rect = page.rect
@@ -45,7 +45,7 @@ doc.save(cropped_doc)
 doc.close()
 
 # Main conversion
-txt_out = pymupdf4llm.to_text(cropped_doc, page_height=None, use_ocr=True, ocr_language="ell", header=False, footer=False, show_progress=True)
+txt_out = pymupdf4llm.to_text(cropped_doc, use_ocr=True, ocr_language="ell", show_progress=True)
 
 # Post-processing cleaning
 def merge_lines_if_hyphen(text):
